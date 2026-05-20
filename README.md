@@ -12,7 +12,7 @@ An AI-powered chatbot that lets you upload PDFs and images and ask questions abo
 
 ## 🌐 Live Demo
 
-👉 **[Try the app here](https://eeshita0301-rag-pdf-chatbot.streamlit.app)**
+👉 **[Try the app here](https://rag-pdf-chatbot-mcw9phr7frsyjac5z7hpds.streamlit.app/)
 
 ---
 
