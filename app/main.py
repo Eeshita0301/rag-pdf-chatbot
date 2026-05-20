@@ -45,7 +45,7 @@ def ingest_pdf(pdf_path):
     vectorstore = Chroma.from_documents(
         chunks,
         embeddings,
-        persist_directory="./db_streamlit"
+        persist_directory="/tmp/db_streamlit"
     )
     return vectorstore
 
